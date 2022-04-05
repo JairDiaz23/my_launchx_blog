@@ -6,7 +6,20 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje Jair Diaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://jairdiaz23.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jairdiaz23.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://jairdiaz23.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jairdiaz23.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola! Mi nombre es Jair. Este curso me ha permitido en su mayoría &amp;ldquo;reafirmar los conocimientos sobre programación que ya conocía&amp;rdquo;. Al mismo tiempo, me ha permitido aprender algunas tecnologías con las que no había tenido la oportunidad de trabajar. Entre las que destacan:
+✔️ VUE
+✔️ Tailwind
+✔️ Azure
+El contenido de las clases es excelente. Siempre buscan dar la explicación de manera sencilla y para todo el público. Asimismo, la actitud de los Missions Commanders me motivann a seguir aprendiiendo.</description>
+    </item>
+    
     <item>
       <title>La cultura de un desarrollador de software</title>
       <link>https://jairdiaz23.github.io/my_launchx_blog/posts/intro/</link>
